@@ -6,6 +6,7 @@
     * [业务逻辑梳理](chapter1/section2.md)
     * [产品原型图](chapter1/section3.md)
     * [UI出首页图片](chapter1/section4.md)
+    * [金融知识理解](chapter1/section5.md)
 * [异构区块链技术](chapter2/README.md)
     * [区块链平台技术Fisco BCOS](chapter2/section1.md)
     * [隐私计算技术PrimiHub](chapter2/section3.md)
